@@ -1,6 +1,6 @@
 import { Navbar } from '../components/Navbar'
 import { CTA } from '../components/CTA'
-import { PiggyBank, Leaf, Zap, Award, MapPin, TrendingUp, Recycle, Users, Bus, Star, User } from 'lucide-react'
+import { PiggyBank, Leaf, Zap, Recycle, Users, Bus, Star, User } from 'lucide-react'
 import { Footer } from '../components/Footer'
 
 export function Beneficios() {
